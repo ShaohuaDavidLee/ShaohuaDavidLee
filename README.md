@@ -2,9 +2,9 @@
 
 > 一个把产品当作表达媒介的AI时代创作者——通过文章、产品、社区，寻找更像自己的版本。
 
-🪶 草诀歌 AI Labs 主理人 · 一个帮助人用AI做出"作品型产品"的社区
-🎙 公众号 / 小宇宙：David 的 AI 全景图
-🌏 ex LanguageX Co-founder · 机器翻译、AI产品经理
+- 草诀歌 AI Labs 主理人 · 一个帮助人用AI做出"作品型产品"的社区
+- 公众号 / 小宇宙：David 的 AI 全景图
+- ex LanguageX Co-founder · 机器翻译、AI产品经理
 
 ---
 
