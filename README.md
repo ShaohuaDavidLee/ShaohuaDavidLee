@@ -26,5 +26,4 @@
 - 把我当纯执行工程师或流量渠道
 
 ---
-
-🌐 [caojuege.com](https://www.caojuege.com/)
+草诀歌AI Labs [caojuege.com](https://www.caojuege.com/)
