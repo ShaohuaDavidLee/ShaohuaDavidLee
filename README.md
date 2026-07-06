@@ -10,7 +10,7 @@
 
 ## 正在做
 
-- [**司马迁.skill**](https://github.com/ShaohuaDavidLee/simaqian.skill) — 让人人都有自己的司马迁
+- [**司马迁.skill**](https://github.com/ShaohuaDavidLee/simaqian) — 让人人都有自己的司马迁
 - 草诀歌 AI Labs：社区、课程、Vibe Coding 陪跑
 - 一系列"作品型产品"实验
 
